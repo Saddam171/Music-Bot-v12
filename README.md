@@ -6,6 +6,7 @@
 
 **Seu Bot está pronto!**
 
+[<img src="https://canary.discordapp.com/api/guilds/664835490985410588/widget.png?style=banner2">](https://discord.gg/TEMauza)
 
 # Replit Users 
 
