@@ -8,7 +8,7 @@
 
 [<img src="https://canary.discordapp.com/api/guilds/664835490985410588/widget.png?style=banner2">](https://discord.gg/TEMauza)
 
-# Replit Users 
+# GitHub Repositories 
 
 [Click Here](https://github.com/Saddam171?tab=repositories) 
 
